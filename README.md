@@ -7,8 +7,9 @@
 The main goal of the project was to allocate power from each of the seven generators to the 42 load buses throughout the system.
 There were costs associated with power from a given generator, limits on power that could travel through each cable, and limits on
 power that could pass through any given bus. Sensitivity analysis and dual solutions are also included. Because some coefficients are
-randomly generated, some initial conditions were infeasible. By default a feasible initial state has been selected. Everything has
+randomly generated, some initial conditions were infeasible. By default a feasible initial state has been selected. The second part of the 
+project dealt with recognizing possible 'cyberattack' threats via large fluctuations in input or output current from a bus. Everything has
 been provided via the csv and jupyter notebook files. 
 
-Below is the instructor's website:
+Professor's Website:
 [https://lavaei.ieor.berkeley.edu/Course.html](https://lavaei.ieor.berkeley.edu/Course.html)
